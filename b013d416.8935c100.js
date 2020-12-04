@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{156:function(a){a.exports=JSON.parse('{"allTagsPath":"/nautilus_stack/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/nautilus_stack/blog/tags/facebook"}')}}]);
