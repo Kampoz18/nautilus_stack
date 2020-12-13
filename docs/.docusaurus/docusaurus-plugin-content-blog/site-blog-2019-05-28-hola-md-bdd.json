@@ -1,5 +1,5 @@
 {
-  "permalink": "/nautilus_docs/blog/hola",
+  "permalink": "/nautilus_stack/blog/hola",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
   "source": "@site/blog/2019-05-28-hola.md",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "hola",
-      "permalink": "/nautilus_docs/blog/tags/hola"
+      "permalink": "/nautilus_stack/blog/tags/hola"
     },
     {
       "label": "docusaurus",
-      "permalink": "/nautilus_docs/blog/tags/docusaurus"
+      "permalink": "/nautilus_stack/blog/tags/docusaurus"
     }
   ],
   "title": "Hola",
@@ -19,6 +19,6 @@
   "truncated": false,
   "prevItem": {
     "title": "Hello",
-    "permalink": "/nautilus_docs/blog/hello-world"
+    "permalink": "/nautilus_stack/blog/hello-world"
   }
 }

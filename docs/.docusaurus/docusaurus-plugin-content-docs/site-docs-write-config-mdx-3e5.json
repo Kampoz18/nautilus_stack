@@ -3,15 +3,15 @@
   "title": "Write your own Config",
   "description": "### Pre-requisites",
   "source": "@site/docs/write_config.mdx",
-  "permalink": "/nautilus_docs/docs/write_config",
+  "permalink": "/nautilus_stack/docs/write_config",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/write_config.mdx",
   "sidebar": "sidebar",
   "previous": {
     "title": "Generate a Vector Map",
-    "permalink": "/nautilus_docs/docs/vectorize"
+    "permalink": "/nautilus_stack/docs/vectorize"
   },
   "next": {
-    "title": "Running Example Bags",
-    "permalink": "/nautilus_docs/docs/running_example_bags"
+    "title": "Config Parameters",
+    "permalink": "/nautilus_stack/docs/config_params"
   }
 }

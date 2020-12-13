@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Nautilus',
   tagline: 'A Map Curation Tool with Autonomous Loop Closure',
-  url: 'https://thecynosure.github.io',
-  baseUrl: '/nautilus_docs/',
+  url: 'https://amrl.cs.utexas.edu',
+  baseUrl: '/nautilus_stack/',
   favicon: 'img/favicon.ico',
-  organizationName: 'TheCynosure', // Usually your GitHub org/user name.
-  projectName: 'nautilus_docs', // Usually your repo name.
+  organizationName: 'ut-amrl', // Usually your GitHub org/user name.
+  projectName: 'nautilus_stack', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Nautilus',

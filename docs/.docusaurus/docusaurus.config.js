@@ -49,11 +49,11 @@ export default {
   },
   "title": "Nautilus",
   "tagline": "A Map Curation Tool with Autonomous Loop Closure",
-  "url": "https://thecynosure.github.io",
-  "baseUrl": "/nautilus_docs/",
+  "url": "https://amrl.cs.utexas.edu",
+  "baseUrl": "/nautilus_stack/",
   "favicon": "img/favicon.ico",
-  "organizationName": "TheCynosure",
-  "projectName": "nautilus_docs",
+  "organizationName": "ut-amrl",
+  "projectName": "nautilus_stack",
   "presets": [
     [
       "@docusaurus/preset-classic",
